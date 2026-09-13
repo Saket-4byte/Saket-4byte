@@ -325,7 +325,7 @@ Developed practical AI systems and LLM-powered applications during an AI enginee
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saket-4byte&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saket-4byte&theme=github-compact"/>
 
 </div>
 
