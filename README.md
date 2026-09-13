@@ -315,7 +315,7 @@ Developed practical AI systems and LLM-powered applications during an AI enginee
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Saket-4byte&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://raw.githubusercontent.com/Saket-4byte/Saket-4byte/main/trophy.svg" width="100%"/>
 
 </div>
 
