@@ -1,0 +1,27 @@
+name: Generate GitHub Trophies
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: Saket-4byte
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit trophy
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: trophy.svg
+          message: "Update GitHub trophies"
