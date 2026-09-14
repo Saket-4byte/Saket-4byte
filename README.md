@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech%20CSE%20(AI%20%26%20ML)-KIIT%20University-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-9.06-4C1D95?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%20%26%20ML-Engineering-312E81?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Patna%2C%20India-Location-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
@@ -40,7 +40,7 @@
 
 ## About
 
-I am a **B.Tech Computer Science and Engineering (AI & ML) student at KIIT University** with a **9.06 CGPA**, focused on building practical software systems at the intersection of **software engineering, artificial intelligence, and full-stack development**.
+I am a **B.Tech Computer Science and Engineering (AI & ML) student at KIIT University**, focused on building practical software systems at the intersection of **software engineering, artificial intelligence, and full-stack development**.
 
 My work centers on designing and developing **AI-powered web applications**, integrating **LLMs, prompt engineering, structured data extraction, NLP pipelines, and modern web technologies** to solve real-world problems.
 
