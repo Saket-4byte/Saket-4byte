@@ -325,7 +325,7 @@ Developed practical AI systems and LLM-powered applications during an AI enginee
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Saket-4byte/Saket-4byte/output/activity-graph.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Saket-4byte/Saket-4byte/activity/activity-graph.svg" width="100%"/>
 
 </div>
 
