@@ -9,7 +9,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech%20CSE%20(AI%20%26%20ML)-KIIT%20University-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%20%26%20ML-Engineering-312E81?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Patna%2C%20India-Location-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
